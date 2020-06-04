@@ -4,7 +4,7 @@
 Alf - Your Little Bash Alias Friend
 ==================================================
 
-![Version](https://img.shields.io/badge/version-0.4.2-blue.svg)
+![Version](https://img.shields.io/badge/version-0.4.3-blue.svg)
 [![Build Status](https://github.com/DannyBen/alf/workflows/Test/badge.svg)](https://github.com/DannyBen/alf/actions?query=workflow%3ATest)
 
 </div>
@@ -53,7 +53,7 @@ The easiest way to use alf is to create a repository on github, call it
 ### 1. Create your own `alf-conf` repository  
 
 - See the [alf.conf](alf.conf) file as a starting point, or
-- Fork my [alf-conf][conf] repository
+- [Generate a template][template] from my [alf-conf][conf]
 
 ### 2. Connect alf to your repository
 
@@ -157,5 +157,6 @@ to contribute, feel free to [open an issue][issues].
 
 [issues]: https://github.com/DannyBen/alf/issues
 [conf]: https://github.com/DannyBen/alf-conf
+[template]: https://github.com/DannyBen/alf-conf/generate
 [opcode]: https://github.com/DannyBen/opcode
 [bashly]: https://github.com/dannyben/bashly
